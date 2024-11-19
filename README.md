@@ -2,14 +2,14 @@
 
 ### Estimado estudiante,
 
-### Para garantizar una correcta evaluación de tus habilidades y entendimiento en la programación en C++, hemos establecido un conjunto de condiciones que deberás seguir al momento de entregar tus respuestas al examen. La estructura y presentación de tu entrega son esenciales para facilitar el proceso de corrección y asegurarnos de que hemos evaluado todos tus esfuerzos de manera justa.
+Para garantizar una correcta evaluación de tus habilidades y entendimiento en la programación en C++, hemos establecido un conjunto de condiciones que deberás seguir al momento de entregar tus respuestas al examen. La estructura y presentación de tu entrega son esenciales para facilitar el proceso de corrección y asegurarnos de que hemos evaluado todos tus esfuerzos de manera justa.
 
-## Instrucciones para la entrega:
+Instrucciones para la entrega:
 
 ## Repositorio en GitHub:
 
-### Todo tu trabajo debe estar contenido en un repositorio en GitHub.
-###Asegúrate de que el repositorio sea privado al inicio, y podrás hacerlo público después de que finalice el período de revisión del examen (si así lo deseas).
+Todo tu trabajo debe estar contenido en un repositorio en GitHub.
+Asegúrate de que el repositorio sea privado al inicio, y podrás hacerlo público después de que finalice el período de revisión del examen (si así lo deseas).
 ## Fichero ZIP:
 
 ### Una vez hayas terminado de resolver el examen, crea un archivo ZIP de todo el repositorio.
@@ -61,8 +61,8 @@
 ## b) Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.
 ## c) Una forma de definir variables.
 d) Una característica específica de C.
-Parte 2: Pregunta de desarrollo de código (80%)
 
+## Parte 2: Pregunta de desarrollo de código (80%)
 
 En el marco de la globalización y la creciente tendencia de intercambio académico, las universidades internacionales están experimentando un auge en la diversidad de su población estudiantil. Estos estudiantes provienen de diferentes partes del mundo, con culturas, idiomas y antecedentes educativos distintos. Con tal diversidad, la administración académica enfrenta el desafío de gestionar de manera eficiente y personalizada la información de cada estudiante.
 
