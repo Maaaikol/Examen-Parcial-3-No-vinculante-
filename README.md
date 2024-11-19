@@ -44,7 +44,7 @@ examen. ¡Buena suerte!
 - c) No hay ninguna diferencia.
 - d) C++ utiliza printf y scanf mientras que C utiliza std::cout y std::cin.
 
-Solución: Opción b)
+Solución: Opción b
 
 ### ¿Qué es un espacio de nombres en C++?
 - a) Una característica que permite agrupar entidades como clases, objetos y funciones bajo un nombre.
@@ -52,7 +52,7 @@ Solución: Opción b)
 - c) Una función de la biblioteca estándar.
 - d) Un tipo de ciclo en C++.
 
-Solución: Opción a)
+Solución: Opción a
 
 ### En programación orientada a objetos en C++, ¿qué es una clase?
 - a) Una agrupación de funciones.
@@ -60,7 +60,7 @@ Solución: Opción a)
 - c) Un tipo de dato primitivo.
 - d) Una plantilla para crear objetos, proporciona una definición inicial para el estado (miembros de datos) y el comportamiento (miembros de la función).
 
-Solución: Opción d)
+Solución: Opción d
 
 ### ¿Qué son los templates en C++?
 - a) Un tipo especial de clase.
@@ -68,7 +68,7 @@ Solución: Opción d)
 - c) Una forma de definir variables.
 - d) Una característica específica de C.
 
-Solucion: Opción b)
+Solucion: Opción b
 
 ## Parte 2: Pregunta de desarrollo de código (80%)
 
