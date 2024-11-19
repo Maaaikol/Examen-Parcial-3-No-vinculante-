@@ -70,7 +70,7 @@ El "Centro Global de Estudios Avanzados" (CGEA) es una de esas universidades int
 
 Para ello, han contratado a una firma de desarrollo de software especializada en soluciones educativas. La primera fase del proyecto consiste en evaluar y decidir qué lenguaje de programación es el más adecuado para implementar el nuevo sistema. Dado que el equipo de desarrollo tiene experiencia tanto en C como en C++, han decidido realizar una comparativa entre ambos lenguajes utilizando una estructura básica: la información del estudiante.
 
-Instrucciones para la Pregunta de Desarrollo de Código:
+### Instrucciones para la Pregunta de Desarrollo de Código:
 
 
 
